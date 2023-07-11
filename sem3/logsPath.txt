@@ -1,0 +1,52 @@
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 6
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 2
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 3
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 5
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 1
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 9
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 5
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 1
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 1
+июн. 13, 2023 2:35:04 PM lg main
+INFO: element: 9
+июн. 13, 2023 2:35:04 PM lg main
+WARNING: logger off
+июн. 13, 2023 2:35:04 PM lg main
+INFO: test
+июн. 13, 2023 2:35:04 PM lg main
+WARNING: logsPath
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 0
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 2
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 0
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 1
+июн. 18, 2023 10:11:44 AM lg main
+WARNING: logger off
+июн. 18, 2023 10:11:44 AM lg main
+INFO: test
+июн. 18, 2023 10:11:44 AM lg main
+WARNING: logsPath

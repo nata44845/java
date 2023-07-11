@@ -1,0 +1,4 @@
+{"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
+{"name":"Ivanov", "city":"Moscow"}
+{}
+{"name":"Ivanov"}

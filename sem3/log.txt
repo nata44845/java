@@ -1,0 +1,26 @@
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 0
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 2
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 0
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 9
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 6
+июн. 18, 2023 10:11:44 AM lg main
+INFO: element: 1
+июн. 18, 2023 10:11:44 AM lg main
+WARNING: logger off
+июн. 18, 2023 10:11:44 AM lg main
+INFO: test
+июн. 18, 2023 10:11:44 AM lg main
+WARNING: logsPath
